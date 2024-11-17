@@ -38,8 +38,7 @@ Para ejecutar el proyecto **Literalura**, asegúrate de tener instalados los sig
    - Aunque puedes usar cualquier editor de texto o IDE, se recomienda **IntelliJ IDEA** para una mejor experiencia de desarrollo con Java y Spring. IntelliJ permite ejecutar, depurar y administrar dependencias del proyecto fácilmente.
 
 3. **Base de Datos**
-   - La aplicación está diseñada para conectarse a una base de datos relacional (puede ser **MySQL**, **H2**, **PostgreSQL**, entre otras).
-   - **H2 Database (opcional):** Para pruebas locales rápidas, puedes utilizar la base de datos H2 integrada.
+   - La aplicación está diseñada para conectarse a una base de datos PostgreSQL.
    - **MySQL** o cualquier otro gestor de bases de datos compatible: Si planeas usar una base de datos externa, instala y configura tu base de datos antes de ejecutar la aplicación. (Configura la conexión a la base de datos en el archivo de propiedades).
 
 4. **Git**
